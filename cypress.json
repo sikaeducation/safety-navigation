@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://e2e-hackernews.herokuapp.com",
+    "integrationFolder": "tests",
+    "screenshotsFolder": "tests/screenshots",
+    "videosFolder": "tests/recordings",
+    "pluginsFile": false,
+    "supportFile": false
+}
